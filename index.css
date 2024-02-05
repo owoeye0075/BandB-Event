@@ -63,7 +63,7 @@ html body{
 }
   footer{
     height: 2rem;
-    top: 35rem;;
+    top: 50rem;;
     position:relative;
     background-color: rgb(162, 78, 227);
   }
@@ -203,6 +203,7 @@ color: white;
     padding: 5px;
     background-color: #0f0e0e;
   }
+footer
   
 
   /* Style the Calendar */
